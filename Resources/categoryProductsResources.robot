@@ -48,21 +48,3 @@ Quando clico em adicionar o produto no carrinho
 Então devo visualizar o subtotal de 1 produto no carrinho de compras 
     Verificar se o produto "Echo Dot (3ª Geração)" foi adicionado no carrinho e validar subtotal de item 
     
-
-    
-
-
-
-
-
-
-
-
-
-
-
-# Quando remover o produto "Echo Dot (3ª Geração)" do carrinho
-#      Click Element   locator=${EXCLUIR}
-
-# Então o carrinho deve ficar vazio
-#      Wait Until Element Is Visible    locator=${REMOVIDO_DO_CARRINHO}
