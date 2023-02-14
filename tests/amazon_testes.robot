@@ -24,4 +24,3 @@ Caso de Teste 01 - Acesso ao menu "Eletrônicos"
 #     Digitar o nome de produto "Xbox Series S" no campo de pesquisa
 #     Clicar no botão de pesquisa
 #     Verificar o resultado da pesquisa se está listando o produto pesquisado
-
